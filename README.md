@@ -65,3 +65,17 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
+Mi parte de contribución va a ser mantener lo explicado previamente, pero agregando la mnanera en la que yo entendi las expplicaciones escenciales. 
+
+---
+Una aplicación CRUD en PHP es básicamente una aplicación web que esta enfocada a hacer cuatro cosas principales con los datos que se ingresan o son solicitados, los cuales son: crear, leer, actualizar y eliminar. 
+
+https://edteam-media.s3.amazonaws.com/blogs/original/7f6f2588-e03b-4864-8dc7-38ab928bcd5e.png
+
+- **Crear (Create)**: va de que se pueden agregar nuevos datos a la aplicación, como agregar un nuevo usuario o crear una nueva entrada en un blog, esa es su escencia, el crear. 
+- **Leer (Read)**: Puede mostrar los datos existentes, es decir, su papel es mas el de proyectar lo que esta almacenado, como mostrar la lista de usuarios registrados o mostrar todas las publicaciones en un blog.
+- **Actualizar (Update)**: podemos decir que esto puede modificar los datos ya existentes, como permitir a un usuario cambiar su información de perfil o editar una publicación.
+- **Eliminar (Delete)**: se pueden eliminar datos existentes, como permitir que un usuario elimine su cuenta o eliminar una publicación de un blog.
+
+Estas operaciones son esenciales en muchas aplicaciones web porque permiten interactuar con la información de manera completa: agregar, ver, actualizar y eliminar datos según sea necesario y sea requeridio, y no estar sujeto por ejemplo a crear un nuevo dato, pero como no se puede actualizar no puedo agregar lo nuevo, entonces procedo a eliminar directamnente y crear una nueva, ya sea el caso o si no es permitido eliminar, dando como resultado nuevamente que se tenga que crear algo nuevo, creado una saturación de datos de manera exesiva. 
+
