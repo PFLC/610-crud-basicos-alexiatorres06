@@ -78,3 +78,4 @@ Una aplicación CRUD en PHP es básicamente una aplicación web que esta enfocad
 
 Estas operaciones son esenciales en muchas aplicaciones web porque permiten interactuar con la información de manera completa: agregar, ver, actualizar y eliminar datos según sea necesario y sea requeridio, y no estar sujeto por ejemplo a crear un nuevo dato, pero como no se puede actualizar no puedo agregar lo nuevo, entonces procedo a eliminar directamnente y crear una nueva, ya sea el caso o si no es permitido eliminar, dando como resultado nuevamente que se tenga que crear algo nuevo, creado una saturación de datos de manera exesiva. 
 
+![1_WxJYUNOWcV1ZDPjiwEfBbA](https://github.com/PFLC/610-crud-basicos-alexiatorres06/assets/114035220/fdcbfe13-9ef4-4dc3-aab0-317b922dd3f1)
