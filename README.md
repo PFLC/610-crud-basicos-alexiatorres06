@@ -65,7 +65,7 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
-Mi parte de contribución va a ser mantener lo explicado previamente, pero agregando la mnanera en la que yo entendi las expplicaciones escenciales. 
+Mi parte de contribución va a ser mantener lo explicado previamente, pero agregando la mnanera en la que yo entendi las explicaciones escenciales. 
 
 ---
 Una aplicación CRUD en PHP es básicamente una aplicación web que esta enfocada a hacer cuatro cosas principales con los datos que se ingresan o son solicitados, los cuales son: crear, leer, actualizar y eliminar. 
